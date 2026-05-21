@@ -12,6 +12,7 @@ Ce laboratoire documente l'analyse de sécurité statique et dynamique de l'appl
 │   └── owasp_mapping.md # Correspondance détaillée avec les critères OWASP MASVS v2
 └── 04-report/
     └── rapport_final.md # Rapport d'audit final avec Top 5 et recommandations
+```
 📊 Résumé des Constats Majeurs
 L'application présente un niveau de risque global Très Élevé (High). Les 5 vulnérabilités critiques prioritaires identifiées sont :
 
